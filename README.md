@@ -1,3 +1,3 @@
 # abe487
 
-Assignments for ABE 487 (metagenomics)
+Metagenomics - Dec 2016 : Class assignments and other related files.
